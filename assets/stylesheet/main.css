@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+li {
+    display: inline-block;
+    padding-left: 80px;
+    margin-top: 15px;
+    font: 700 18px/0 'Helvetica', 'Times New Roman', Times, sans-source;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    text-align: center;
+}
+img {
+    width: 100%;
+    margin-top: -9%;
+    filter: brightness(%) contrast(%);
+    opacity: .7;
+}
+html {
+    background: #aeaead;
+}
