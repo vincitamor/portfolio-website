@@ -25,23 +25,20 @@ ul {
 .backgroundImg {
     width: 90%;
     height: 650px;
-    margin-left: 5%;
-    margin-bottom: 5px;
+    margin: 2.8% 0 .3% 5%;
     opacity: .5;
 }
 html {
     background: #000000;
 }
-.vert-intro {
+.author {
     display: inline-block;
     position: absolute;
-    left: 20px;
+    left: 35%;
     color: white;
     font: 700 20px/30px 'Helvetica', sans-source;
 }
-.vert-intro span {
-    display: block;
-}
+
 /* 
 Media queries
 */
